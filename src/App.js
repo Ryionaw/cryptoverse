@@ -45,8 +45,8 @@ const App = () => {
             level={5}
             style={{ color: "white", textAlign: "center" }}
           >
-            Cryptoverse <br />
-            All rights reserved
+            CryptoKyu <br />
+            Ryan Ariel W
           </Typography.Title>
           <Space>
             <Link to="/">Home</Link>
